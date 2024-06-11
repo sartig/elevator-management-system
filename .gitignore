@@ -1,0 +1,31 @@
+# Compiled class ###
+*.class
+
+# Package ###
+*.jar
+
+# IDE specific ###
+.vscode
+.project
+.classpath
+.settings
+.metadata
+target
+.idea
+
+# Mac Specific ###
+.DS_Store
+._*
+__MACOSX
+
+
+# Misc ###
+*.jpeg
+*.png
+*.jpg
+
+
+
+/target/
+/.apt_generated/
+/.apt_generated_tests/
